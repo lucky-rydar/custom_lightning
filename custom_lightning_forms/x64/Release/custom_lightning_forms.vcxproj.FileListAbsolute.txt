@@ -1,0 +1,3 @@
+D:\my_projects\from_notebook\custom_lightning_forms\custom_lightning_forms\x64\Release\custom_lightning_forms.vcxprojAssemblyReference.cache
+D:\my_projects\from_notebook\custom_lightning_forms\custom_lightning_forms\x64\Release\customlightningforms.MyForm.resources
+D:\my_projects\from_notebook\custom_lightning_forms\custom_lightning_forms\x64\Release\custom_lightning_forms.vcxproj.GenerateResource.cache
