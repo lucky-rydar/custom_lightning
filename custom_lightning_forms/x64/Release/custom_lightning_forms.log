@@ -2,36 +2,51 @@
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(132,1): warning C4005: PASCAL: изменение макроопределения
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\Lmcons.h(45): message : см. предыдущее определение "PASCAL"
   Config.cpp
+  CustomLightning.cpp
+  WARNING: CUESDK deprecation warnings were disabled
   MyForm.cpp
   WARNING: CUESDK deprecation warnings were disabled
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
   Создание кода...
-D:\my_projects\ready_libs_cpp\opencv\build\include\opencv2\core\cuda.inl.hpp(105): warning C4793: cv::cuda::GpuMat::GpuMat: функция скомпилирована как машинная:
+D:\my_projects\from_notebook\custom_lightning_forms\opencv\build\include\opencv2\core\cuda.inl.hpp(105): warning C4793: cv::cuda::GpuMat::GpuMat: функция скомпилирована как машинная:
   	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
-D:\my_projects\ready_libs_cpp\opencv\build\include\opencv2\core\cuda.inl.hpp(401): warning C4793: cv::cuda::HostMem::HostMem: функция скомпилирована как машинная:
+D:\my_projects\from_notebook\custom_lightning_forms\opencv\build\include\opencv2\core\cuda.inl.hpp(401): warning C4793: cv::cuda::HostMem::HostMem: функция скомпилирована как машинная:
   	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
-D:\my_projects\ready_libs_cpp\opencv\build\include\opencv2\core\mat.inl.hpp(545): warning C4793: cv::Mat::Mat: функция скомпилирована как машинная:
+D:\my_projects\from_notebook\custom_lightning_forms\opencv\build\include\opencv2\core\mat.inl.hpp(545): warning C4793: cv::Mat::Mat: функция скомпилирована как машинная:
   	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
-D:\my_projects\ready_libs_cpp\opencv\build\include\opencv2\core\mat.inl.hpp(865): warning C4793: cv::Mat::release: функция скомпилирована как машинная:
+D:\my_projects\from_notebook\custom_lightning_forms\opencv\build\include\opencv2\core\mat.inl.hpp(865): warning C4793: cv::Mat::release: функция скомпилирована как машинная:
   	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
-D:\my_projects\ready_libs_cpp\opencv\build\include\opencv2\core\mat.inl.hpp(2204): warning C4793: cv::SparseMat::addref: функция скомпилирована как машинная:
+D:\my_projects\from_notebook\custom_lightning_forms\opencv\build\include\opencv2\core\mat.inl.hpp(2204): warning C4793: cv::SparseMat::addref: функция скомпилирована как машинная:
   	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
-D:\my_projects\ready_libs_cpp\opencv\build\include\opencv2\core\mat.inl.hpp(3807): warning C4793: cv::UMat::addref: функция скомпилирована как машинная:
+D:\my_projects\from_notebook\custom_lightning_forms\opencv\build\include\opencv2\core\mat.inl.hpp(3807): warning C4793: cv::UMat::addref: функция скомпилирована как машинная:
   	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
-D:\my_projects\ready_libs_cpp\opencv\build\include\opencv2\core\cuda.inl.hpp(105): warning C4793: cv::cuda::GpuMat::GpuMat: функция скомпилирована как машинная:
+D:\my_projects\from_notebook\custom_lightning_forms\opencv\build\include\opencv2\core\cuda.inl.hpp(105): warning C4793: cv::cuda::GpuMat::GpuMat: функция скомпилирована как машинная:
   	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
-D:\my_projects\ready_libs_cpp\opencv\build\include\opencv2\core\cuda.inl.hpp(401): warning C4793: cv::cuda::HostMem::HostMem: функция скомпилирована как машинная:
+D:\my_projects\from_notebook\custom_lightning_forms\opencv\build\include\opencv2\core\cuda.inl.hpp(401): warning C4793: cv::cuda::HostMem::HostMem: функция скомпилирована как машинная:
   	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
-D:\my_projects\ready_libs_cpp\opencv\build\include\opencv2\core\mat.inl.hpp(545): warning C4793: cv::Mat::Mat: функция скомпилирована как машинная:
+D:\my_projects\from_notebook\custom_lightning_forms\opencv\build\include\opencv2\core\mat.inl.hpp(545): warning C4793: cv::Mat::Mat: функция скомпилирована как машинная:
   	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
-D:\my_projects\ready_libs_cpp\opencv\build\include\opencv2\core\fast_math.hpp(204): warning C4793: `anonymous namespace'::cvRound: функция скомпилирована как машинная:
+D:\my_projects\from_notebook\custom_lightning_forms\opencv\build\include\opencv2\core\mat.inl.hpp(865): warning C4793: cv::Mat::release: функция скомпилирована как машинная:
   	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
-D:\my_projects\ready_libs_cpp\opencv\build\include\opencv2\core\fast_math.hpp(205): warning C4793: `anonymous namespace'::cvRound: функция скомпилирована как машинная:
+D:\my_projects\from_notebook\custom_lightning_forms\opencv\build\include\opencv2\core\mat.inl.hpp(2204): warning C4793: cv::SparseMat::addref: функция скомпилирована как машинная:
   	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
-D:\my_projects\ready_libs_cpp\opencv\build\include\opencv2\core\mat.inl.hpp(865): warning C4793: cv::Mat::release: функция скомпилирована как машинная:
+D:\my_projects\from_notebook\custom_lightning_forms\opencv\build\include\opencv2\core\mat.inl.hpp(3807): warning C4793: cv::UMat::addref: функция скомпилирована как машинная:
   	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
-D:\my_projects\ready_libs_cpp\opencv\build\include\opencv2\core\mat.inl.hpp(2204): warning C4793: cv::SparseMat::addref: функция скомпилирована как машинная:
+D:\my_projects\from_notebook\custom_lightning_forms\opencv\build\include\opencv2\core\cuda.inl.hpp(105): warning C4793: cv::cuda::GpuMat::GpuMat: функция скомпилирована как машинная:
   	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
-D:\my_projects\ready_libs_cpp\opencv\build\include\opencv2\core\mat.inl.hpp(3807): warning C4793: cv::UMat::addref: функция скомпилирована как машинная:
+D:\my_projects\from_notebook\custom_lightning_forms\opencv\build\include\opencv2\core\cuda.inl.hpp(401): warning C4793: cv::cuda::HostMem::HostMem: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+D:\my_projects\from_notebook\custom_lightning_forms\opencv\build\include\opencv2\core\mat.inl.hpp(545): warning C4793: cv::Mat::Mat: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+D:\my_projects\from_notebook\custom_lightning_forms\opencv\build\include\opencv2\core\fast_math.hpp(204): warning C4793: `anonymous namespace'::cvRound: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+D:\my_projects\from_notebook\custom_lightning_forms\opencv\build\include\opencv2\core\fast_math.hpp(205): warning C4793: `anonymous namespace'::cvRound: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+D:\my_projects\from_notebook\custom_lightning_forms\opencv\build\include\opencv2\core\mat.inl.hpp(865): warning C4793: cv::Mat::release: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+D:\my_projects\from_notebook\custom_lightning_forms\opencv\build\include\opencv2\core\mat.inl.hpp(2204): warning C4793: cv::SparseMat::addref: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+D:\my_projects\from_notebook\custom_lightning_forms\opencv\build\include\opencv2\core\mat.inl.hpp(3807): warning C4793: cv::UMat::addref: функция скомпилирована как машинная:
   	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
   ColorProcessor.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
   custom_lightning_forms.vcxproj -> D:\my_projects\from_notebook\custom_lightning_forms\x64\Release\custom_lightning_forms.exe

@@ -105,11 +105,11 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>D:\my_projects\ready_libs_cpp\CUESDK\include;D:\my_projects\ready_libs_cpp\opencv\build\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)\CUESDK\include;$(SolutionDir)\opencv\build\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <AdditionalDependencies>opencv_world430.lib;CUESDK.x64_2017.lib;</AdditionalDependencies>
-      <AdditionalLibraryDirectories>D:\my_projects\ready_libs_cpp\CUESDK\lib\i386;D:\my_projects\ready_libs_cpp\CUESDK\lib\x64;D:\my_projects\ready_libs_cpp\opencv\build\x64\vc15\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>$(SolutionDir)\CUESDK\lib\i386;D:\my_projects\ready_libs_cpp\CUESDK\lib\x64;D:\my_projects\ready_libs_cpp\opencv\build\x64\vc15\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
