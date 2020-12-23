@@ -12,7 +12,7 @@ Config::Config(string configFileName)
 	pathToFile = new std::string();
 
 	loadSettings();
-	getImageName();
+	//getImageName();
 }
 
 void Config::loadSettings()
